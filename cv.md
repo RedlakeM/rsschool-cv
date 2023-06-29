@@ -15,7 +15,7 @@
 ## *About Myself*
 
 I want to become a front-end developer, but I'm just starting my journey in this direction. By education, I am very far from Frontend, as I completed my studies in the specialty "Automobile Electronics". I am a very energetic and kind person, if I can help in something, I will definitely help.
-At the moment I have no IT experience, but as soon as there is such an opportunity to try out my new skills, I will definitely do it. :grin:
+At the moment I have no IT experience, but as soon as there is such an opportunity to try out my new skills, I will definitely do it.
 
 ********
 
@@ -41,7 +41,7 @@ function past(h, m, s){
 
 ## Experience
 
-Without experience :disappointed_relieved:
+Without experience
 
 ********
 
