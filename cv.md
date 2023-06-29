@@ -27,7 +27,7 @@ At the moment I have no IT experience, but as soon as there is such an opportuni
 
 ## ***Code Example*** 
 
-The first code from CODEWARS
+The my first code KATA from CODEWARS
 
 ```
 function past(h, m, s){
