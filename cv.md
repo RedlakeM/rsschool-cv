@@ -6,9 +6,9 @@
 
 ## ***My contacts***
 
-Phone: +375 29 3110341
-Email: matsveikhadakou@gmail.com
-Telegram: @RedlakeM
+1. Phone: +375 29 3110341
+2. Email: matsveikhadakou@gmail.com
+3. Telegram: @RedlakeM
 ********
 
 ## *About Myself*
@@ -19,7 +19,35 @@ At the moment I have no IT experience, but as soon as there is such an opportuni
 
 ## ***My skills***
 
-*HTML5(study)
-*CSS3(study)
-*JavaScript(study)
-Git and Github(study)
+1. HTML5(study)
+2. CSS3(study)
+3. JavaScript(study)
+4. Git and Github(study)
+********
+
+## ***Code Example*** 
+
+The first code from CODEWARS
+
+```
+function past(h, m, s){
+  return ((h*3600)+(m*60)+s)*1000;
+}
+```
+********
+
+## Experience
+
+Without experience:disappointed_relieved:
+
+********
+
+## Education
+
+**Polytechnic College of Minsk City**
+
+********
+
+## English Language
+
+Level A2(practiced when communicating in games:sunglasses:)
